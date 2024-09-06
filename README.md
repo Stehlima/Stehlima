@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**Stehlima/Stehlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Olá eu  me chamo Stephany Lima
+###
+div>
+  <a href="https://www.instagram.com/steh.lm/?locale=gb&hl=am-et" target="_blank"><img src="https://flavioricardo.com.br/github-img/instagram.png" alt="Instagram"></a>
+  <a href="https://wa.me/5511987080579" target="_blank"><img src="https://flavioricardo.com.br/github-img/whatsapp.png" alt="WhatsApp"></a>
+</div>![Stephany Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=Stehlima&show_icons=true&theme=tokyonight)
+<
+- 🔭 Design UX e UI
+- 🌱 Finalizando curso tecnico em Desenvolvimento de sistemas
+- 😄 Desenvolvedora front-end
+- 🤔 Estudando banco de dados e PHP
+- 💬 Procurando me desenvolver profissionalmente
+- 📫 100% focada
 -->
