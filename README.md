@@ -26,7 +26,7 @@ Atuar como Desenvolvedora Front-end ou UX/UI Designer, aplicando boas práticas 
 
 ### 📬 Contato
 
-<a href="https://www.instagram.com/steh.lm/" target="_blank">
+<a href="https://www.instagram.com/stef.lmattos/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
 
@@ -39,5 +39,3 @@ Atuar como Desenvolvedora Front-end ou UX/UI Designer, aplicando boas práticas 
 </a>
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stehlima&show_icons=true&theme=tokyonight)
