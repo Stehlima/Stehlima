@@ -1,5 +1,5 @@
 ## 👩🏻‍💻 Stephany Lima  
-### UX/UI Designer | Desenvolvedora Front-end  
+### UX/UI Designer | Desenvolvedora de Sistemas
 
 🎓 Técnica em Desenvolvimento de Sistemas (concluído)  
 🎓 Cursando em Análise e Desenvolvimento de Sistemas  
